@@ -119,25 +119,25 @@ body {
 }
 
 @media screen and (max-width: 767px) {
-    .weatherApp{
+    .weatherApp {
         width: 80%;
     }
 
-    .title h1{
+    .title h1 {
         font-size: 35px;
     }
 
     .lowerRightSide p {
         font-size: 19px;
     }
-    .lowerLeftSide p{
+    .lowerLeftSide p {
         font-size: 19px;
     }
 
     .weatherApp img {
         width: 120px;
     }
-    
+
     .weatherApp h1 {
         font-size: 30px;
     }
@@ -145,7 +145,7 @@ body {
         font-size: 30px;
     }
 
-    .allInfo h2{
+    .allInfo h2 {
         font-size: 25px;
     }
 }
